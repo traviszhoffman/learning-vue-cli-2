@@ -17,7 +17,7 @@
 
 <script>
 export default {
-  name: "create",
+  name: "CreateView",
   data() {
     return {
       creating: true,
